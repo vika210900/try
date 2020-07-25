@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">Пароль</string>
+    <string name="confidentiality">Нажимая на кнопку Вход, вы соглашаетесь с политикой конфиденциальности</string>
+    <string name="Enter">Войти</string>
+    <string name="Exit">Назад</string>
+    <string name="Login">Логин или email</string>
+    <string name="Enter1">Вход</string>
+    <string name="conf">Политика конфиденциальности</string>
+    <string name="ok">Ok</string>
+    <string name="money">Всего монет</string>
+    <string name="name">Володя Котляров</string>
+    <string name="id_56746565">ID : 56746565</string>
+    <string name="edit">РЕДАКТИРОВАТЬ</string>
+    <string name="win">Побед</string>
+    <string name="ranking_place">Место в рейтинге</string>
+    <string name="friends">Друзей</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Телефон</string>
+    <string name="numbers_of_win">67</string>
+    <string name="numbers_of_coins">100500</string>
+    <string name="number_place_ranking">3</string>
+    <string name="number_of_friends">5</string>
+    <string name="your_email">mr.dark051@yandex.ru</string>
+    <string name="phone">89674781443</string>
+</resources>
